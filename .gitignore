@@ -1,0 +1,11 @@
+
+terraform.tfstate         
+terraform.tfstate.backup  
+versions.tf
+.terraform/
+.idea/
+login.txt
+nginx.yml
+python.yml
+variable.tf
+

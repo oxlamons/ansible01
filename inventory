@@ -1,0 +1,8 @@
+
+[dev]
+
+159.69.195.191 ansible_ssh_user=root
+
+[prod]
+
+hz2.oxlamons.devops.rebrain.srwx.net ansible_ssh_user=root
